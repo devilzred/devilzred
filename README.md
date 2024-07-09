@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
-- 🔭 I’m currently working on [taco](https://github.com/SISACO/taco)
+- 🔭 I’m currently doing internship on [Unified Mentor]
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **karthik89225@gmail.com**
 
