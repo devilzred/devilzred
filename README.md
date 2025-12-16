@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **karthik89225@gmail.com**
 
-- ⚡ Fun fact **I Have My Own Superstitions**
+- ⚡ Fun fact : **I Have My Own Superstitions**
 
 
 <h3 align="left">Languages and Tools:</h3>
