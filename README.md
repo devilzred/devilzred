@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
-- 🔭 I’m currently doing internship on [Unified Mentor]
+- 🔭 I’m currently upgrading my skills
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Backend-node**
 
 - 📫 How to reach me **karthik89225@gmail.com**
 
-- ⚡ Fun fact **I am not a Programmer**
+- ⚡ Fun fact **I Have My Own Superstitions**
 
 
 <h3 align="left">Languages and Tools:</h3>
