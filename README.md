@@ -1,15 +1,78 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">A passionate Application developer from India</h3>
 
-- 🔭 I’m currently upgrading my skills
+<h3 align="center">
+Flutter Developer • Next.js Developer • UI/UX Designer
+</h3>
 
-- 🌱 I’m currently learning **Backend-node**
+<p align="center">
+Building modern mobile apps, responsive web experiences, and clean user interfaces.
+</p>
 
-- 📫 How to reach me **karthik89225@gmail.com**
+---
 
-- ⚡ Fun fact : **I Have My Own Superstitions**
+## 👨‍💻 About Me
 
+- 📱 Flutter Developer passionate about building smooth cross-platform apps
+- 🌐 Web Developer using **Next.js**, **React**, and **Tailwind CSS**
+- 🎨 UI/UX Designer creating clean interfaces in **Figma**
+- 🚀 Currently learning **Backend Development (Node.js & Express)**
+- 🧠 Always curious about new technologies and better development practices
+- 🎮 Gamer when I'm not debugging my own mistakes
+- 💼 Open to freelance work, collaborations, and new opportunities
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🛠 Tech Stack
+
+### Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### Web
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,javascript,typescript" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+</p>
+
+### Design & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,photoshop" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Backend Architecture
+- REST APIs
+- Authentication & Security
+- Clean Architecture
+- Performance Optimization
+
+---
+
+## 📫 Connect With Me
+
+📧 **karthik89225@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy solving development problems almost as much as I enjoy gaming.
+> *(Almost.)*
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
